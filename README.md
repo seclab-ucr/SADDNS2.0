@@ -73,8 +73,6 @@ Keyu Man, Xin'an Zhou, Zhiyun Qian
 
    Run ```./saddns -h``` for usage.
 
-```attack.sh``` is a sample script for finish the whole PoC (both Step 2 & 3) including the verification of the poisoned result. It's a demonstrative script and please modify the code accordingly (it **won't** run by default).
-
 
 ## Questions and issues
 
